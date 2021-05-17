@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["Config","Log"],"mappings":"AAAA,OAAOA,MAAP,MAAmB,+BAAnB;AACA,OAAOC,GAAP,MAAgB,4BAAhB;AACA,eAAe,EACb,GAAGD,MADU;AAEb,KAAGC;AAFU,CAAf","sourcesContent":["import Config from '~/src/routes/api/alarm/config'\nimport Log from '~/src/routes/api/alarm/log'\nexport default {\n  ...Config,\n  ...Log\n}\n"],"file":"index.js"}

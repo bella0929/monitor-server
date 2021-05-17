@@ -1,0 +1,1 @@
+{"version":3,"sources":["project.js"],"names":["OPEN_PROJECT_ID_LIST"],"mappings":"AAAA,MAAMA,oBAAoB,GAAG,CAC3B,CAD2B,CAA7B;AAGA,eAAe;AACbA,EAAAA;AADa,CAAf","sourcesContent":["const OPEN_PROJECT_ID_LIST = [\n  1\n]\nexport default {\n  OPEN_PROJECT_ID_LIST\n}\n"],"file":"project.js"}

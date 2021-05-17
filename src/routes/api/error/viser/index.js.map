@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["Area"],"mappings":"AAAA,OAAOA,IAAP,MAAiB,mCAAjB;AAEA,eAAe,EACb,GAAGA;AADU,CAAf","sourcesContent":["import Area from '~/src/routes/api/error/viser/area'\n\nexport default {\n  ...Area\n}\n"],"file":"index.js"}

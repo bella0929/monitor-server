@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["test"],"mappings":"AAAA,OAAOA,IAAP,MAAiB,mCAAjB;AACA,eAAe,EACb,GAAGA;AADU,CAAf","sourcesContent":["import test from '~/src/routes/api/log/content/test'\nexport default {\n  ...test\n}\n"],"file":"index.js"}

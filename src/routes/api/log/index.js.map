@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["Content"],"mappings":"AAAA,OAAOA,OAAP,MAAoB,8BAApB;AAEA,eAAe,EACb,GAAGA;AADU,CAAf","sourcesContent":["import Content from '~/src/routes/api/log/content'\n\nexport default {\n  ...Content\n}\n"],"file":"index.js"}

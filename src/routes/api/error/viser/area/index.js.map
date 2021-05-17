@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["StackArea"],"mappings":"AAAA,OAAOA,SAAP,MAAsB,8CAAtB;AAEA,eAAe,EACb,GAAGA;AADU,CAAf","sourcesContent":["import StackArea from '~/src/routes/api/error/viser/area/stack_area'\n\nexport default {\n  ...StackArea\n}\n"],"file":"index.js"}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["newUsers"],"mappings":"AAAA,OAAOA,QAAP,MAAqB,2CAArB;AAEA,eAAe,EACb,GAAGA;AADU,CAAf","sourcesContent":["import newUsers from '~/src/routes/api/project/summary/new_user'\n\nexport default {\n  ...newUsers\n}\n"],"file":"index.js"}

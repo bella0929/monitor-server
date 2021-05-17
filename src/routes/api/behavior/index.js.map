@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["Online","Menu"],"mappings":"AAAA,OAAOA,MAAP,MAAmB,kCAAnB;AACA,OAAOC,IAAP,MAAiB,gCAAjB;AAEA,eAAe,EACb,GAAGA,IADU;AAEb,KAAGD;AAFU,CAAf","sourcesContent":["import Online from '~/src/routes/api/behavior/online'\nimport Menu from '~/src/routes/api/behavior/menu'\n\nexport default {\n  ...Menu,\n  ...Online\n}\n"],"file":"index.js"}
